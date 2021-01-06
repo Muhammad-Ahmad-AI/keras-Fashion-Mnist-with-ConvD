@@ -24,10 +24,10 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 Here's an example how the data looks (each class takes three-rows):
 <p align="center">
 
-<img scr="https://github.com/zalandoresearch/fashion-mnist/raw/master/doc/img/fashion-mnist-sprite.png" alt"" >
+<img scr="https://github.com/zalandoresearch/fashion-mnist/raw/master/doc/img/fashion-mnist-sprite.png" width="350" alt"" >
 
 
-<img scr="https://github.com/zalandoresearch/fashion-mnist/raw/master/doc/img/embedding.gif" alt"">
+<img scr="https://github.com/zalandoresearch/fashion-mnist/raw/master/doc/img/embedding.gif" width="350" alt"">
 </p>
 
 Why we made Fashion-MNIST
